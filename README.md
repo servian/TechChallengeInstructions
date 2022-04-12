@@ -22,7 +22,7 @@ Documentation should be included in an README.md file as part of the solution, w
 
 ## Submission
 
-To submit, please provide share the URL to your repo with the Servian Talent Aquision team member who you have been talking with. You can simply reply to the email that they sent you with the links to this repo.
+To submit your solution, please provide the URL to your repo with all of your supporting artefacts to the Servian Talent Aquision team member who you have been engaged with. You can simply reply to the email that they sent you with initial instructions and links to this repo.
 
 ## Assessment Grading Criteria
 

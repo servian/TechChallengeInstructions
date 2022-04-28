@@ -67,7 +67,7 @@ We will be looking at the following areas for your solution:
 
 You can either code or explain how the following could be accomplished:
 
-- CI/CD pipeline for deployment to a Terraform Cloud workspace.
+- CI/CD pipeline for deployment
 - Any tests to check for success or failure of the pipeline.
 
 ## Application Details

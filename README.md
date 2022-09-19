@@ -95,3 +95,5 @@ The [application can be configured](https://github.com/servian/TechChallengeApp/
 `/api/tasks/` - api endpoint to create, read, update, and delete tasks
 
 `/healthcheck/` - Used to validate the health of the application
+
+`/debug` - Used to print a debug message for the application
